@@ -15,3 +15,5 @@
 *swo
 *.old
 exe_*
+
+go.sum
